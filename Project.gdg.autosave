@@ -127,7 +127,7 @@
                     <stringProperties />
                     <initialVariables />
                 </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Jumpthru" width="0.000000" x="755.600037" y="418.000000" zOrder="1">
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Jumpthru" width="0.000000" x="754.600037" y="419.000000" zOrder="1">
                     <numberProperties />
                     <stringProperties />
                     <initialVariables />
@@ -360,7 +360,7 @@
                     <stringProperties />
                     <initialVariables />
                 </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="BackgroundObjects" width="0.000000" x="536.784607" y="503.015381" zOrder="-2">
+                <instance angle="0.000000" customSize="true" height="70.000000" layer="" locked="false" name="BackgroundObjects" width="70.000000" x="536.784607" y="503.015381" zOrder="-2">
                     <numberProperties />
                     <stringProperties />
                     <initialVariables />
@@ -425,7 +425,7 @@
                     <stringProperties />
                     <initialVariables />
                 </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Coin" width="0.000000" x="514.953857" y="510.092407" zOrder="1">
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Coin" width="0.000000" x="514.953857" y="511.092407" zOrder="1">
                     <numberProperties />
                     <stringProperties />
                     <initialVariables />

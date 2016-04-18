@@ -89,7 +89,7 @@
     <variables />
     <layouts>
         <layout b="247" disableInputWhenNotFocused="true" mangledName="New_32scene" name="New scene" oglFOV="90.000000" oglZFar="500.000000" oglZNear="1.000000" r="208" standardSortMethod="false" stopSoundsOnStartup="true" title="" v="244">
-            <uiSettings grid="false" gridB="255" gridG="180" gridHeight="70" gridOffsetX="0" gridOffsetY="0" gridR="158" gridWidth="70" snap="true" windowMask="true" zoomFactor="1.000000" />
+            <uiSettings grid="false" gridB="255" gridG="180" gridHeight="70" gridOffsetX="0" gridOffsetY="0" gridR="158" gridWidth="70" snap="true" windowMask="true" zoomFactor="0.669251" />
             <objectsGroups>
                 <group name="Enemy">
                     <objects>
@@ -127,7 +127,7 @@
                     <stringProperties />
                     <initialVariables />
                 </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Jumpthru" width="0.000000" x="754.600037" y="419.000000" zOrder="1">
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Jumpthru" width="0.000000" x="755.600037" y="418.000000" zOrder="1">
                     <numberProperties />
                     <stringProperties />
                     <initialVariables />
@@ -186,7 +186,7 @@
                     <stringProperties />
                     <initialVariables />
                 </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Platform" width="0.000000" x="1673.600098" y="429.692291" zOrder="1">
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Platform" width="0.000000" x="1678.082764" y="428.198090" zOrder="1">
                     <numberProperties />
                     <stringProperties />
                     <initialVariables />
@@ -360,7 +360,7 @@
                     <stringProperties />
                     <initialVariables />
                 </instance>
-                <instance angle="0.000000" customSize="true" height="70.000000" layer="" locked="false" name="BackgroundObjects" width="70.000000" x="536.784607" y="503.015381" zOrder="-2">
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="BackgroundObjects" width="0.000000" x="536.784607" y="503.015381" zOrder="-2">
                     <numberProperties />
                     <stringProperties />
                     <initialVariables />
@@ -425,7 +425,7 @@
                     <stringProperties />
                     <initialVariables />
                 </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Coin" width="0.000000" x="514.953857" y="511.092407" zOrder="1">
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Coin" width="0.000000" x="514.953857" y="510.092407" zOrder="1">
                     <numberProperties />
                     <stringProperties />
                     <initialVariables />
